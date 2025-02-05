@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a83962f2ee57e640bafe3d040f4bd16, type: 3}
+  m_Name: Prefs Settings
+  m_EditorClassIdentifier: 
+  settings:
+    settingInfos:
+    - key: 0
+      fieldType: 0
+      index: 0
+    - key: 1
+      fieldType: 1
+      index: 0
+    - key: 2
+      fieldType: 2
+      index: 0
+    - key: 3
+      fieldType: 2
+      index: 1
+    - key: 4
+      fieldType: 2
+      index: 2
+    - key: 5
+      fieldType: 2
+      index: 3
+    - key: 6
+      fieldType: 2
+      index: 4
+    - key: 7
+      fieldType: 2
+      index: 5
+    - key: 8
+      fieldType: 2
+      index: 6
+    - key: 9
+      fieldType: 2
+      index: 7
+    - key: 10
+      fieldType: 3
+      index: 0
+    boolSettings:
+    - defaultValue: 1
+      value: 1
+    floatSettings:
+    - defaultValue: 1
+      value: 1
+    intSettings:
+    - defaultValue: 0
+      value: 0
+    - defaultValue: 0
+      value: 0
+    - defaultValue: 0
+      value: 0
+    - defaultValue: 0
+      value: 0
+    - defaultValue: 3
+      value: 3
+    - defaultValue: 3
+      value: 3
+    - defaultValue: 3
+      value: 3
+    - defaultValue: 0
+      value: 0
+    longSettings:
+    - defaultValue: 0
+      value: 0
+    stringSettings: []
+    dateTimeSettings: []
+    doubleSettings:
+    - defaultValue: 0
+      value: 0

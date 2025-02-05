@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e068d4b61b94914da390f6ae91e0b2b, type: 3}
+  m_Name: Level_048
+  m_EditorClassIdentifier: 
+  layers:
+  - rows:
+    - cells: 0000000000000000
+    - cells: 0000000000000000
+    - cells: 0000000000000000
+    - cells: 0000000000000000
+    - cells: 0101000000000000
+    - cells: 0000010100000000
+    - cells: 0000000001010000
+    - cells: 0000000000000101
+  - rows:
+    - cells: 000000000000000000
+    - cells: 000000000000000000
+    - cells: 000000000000000000
+    - cells: 000000000000000000
+    - cells: 010101000000000000
+    - cells: 000001010100000000
+    - cells: 000000000101010000
+    - cells: 000000000000010101
+    - cells: 000000000000000000
+  - rows:
+    - cells: 0000000000000000
+    - cells: 0000000000000000
+    - cells: 0000000000000000
+    - cells: 0101000000000000
+    - cells: 0000010100000000
+    - cells: 0000000001010000
+    - cells: 0000000000000101
+    - cells: 0000000000000000
+  - rows:
+    - cells: 010101000000000000
+    - cells: 000000010101000000
+    - cells: 000000000000010101
+    - cells: 000000000000000000
+    - cells: 000000000000000000
+    - cells: 000000000000000000
+    - cells: 000000000000000000
+    - cells: 000000000000000000
+    - cells: 000000000000000000
+  - rows:
+    - cells: 0101010000000000
+    - cells: 0000010101010000
+    - cells: 0000000000010101
+    - cells: 0000000000000000
+    - cells: 0000000000000000
+    - cells: 0000000000000000
+    - cells: 0000000000000000
+    - cells: 0000000000000000
+  - rows:
+    - cells: 000000010000000000
+    - cells: 010101000000010000
+    - cells: 000001010101000000
+    - cells: 010101000001010101
+    - cells: 000000010100000000
+    - cells: 010100000001010000
+    - cells: 000001010000000101
+    - cells: 000000000101000000
+    - cells: 000000000000010101
+  firstLayerSize: 8

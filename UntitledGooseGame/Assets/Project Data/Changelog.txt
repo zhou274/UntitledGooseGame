@@ -1,0 +1,6 @@
+v1.1.6
+Unity 2021 support
+Core update
+
+v1.0
+Base
